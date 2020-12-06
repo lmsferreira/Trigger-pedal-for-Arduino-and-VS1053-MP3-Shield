@@ -3,7 +3,7 @@
 #include <SdFat.h>         // SDFat Library
 //#include <SdFatUtil.h>     // SDFat Util Library
 #include <SFEMP3Shield.h>  // Mp3 Shield Library
-#include <VS1053.h>
+//#include <VS1053.h>
 #include <LiquidCrystal_I2C.h> // LCD Library
 
 
